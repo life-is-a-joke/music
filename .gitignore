@@ -1,0 +1,10 @@
+index.md
+**/index.md
+
+# macOS internals
+.DS_Store
+
+
+# IDEs
+.vscode
+.idea
