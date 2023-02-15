@@ -4,23 +4,39 @@ Key: C
 
 - [INTRO]
 
-| C | C | F | C |
+| E | E | E | E |
+
+| E | E | A | A |
+
+| E | B | E | E |
 | | | | There's a  |
 | | | | We shall | 
 | | | | To our | 
 
 - [VERSE]
 
-| C |  F | C | G |
-| land that is | fairer than | day And by faith we can | see it afar For the | 
-| sing on that | beautiful | shore The melodious songs of the | blessed; And our |
-| bountiful | Father | above, We will offer our tribute of | praise For the | 
+| E |  A | E | E |
+| land that is | fairer than | day | And by | 
+| sing on that | beautiful | shore | The melodious | 
+| bountiful | Father | above, | We will |
 
 
-| C |  F | C | G |
-| Father waits | over the | way  To prepare us a | dwelling place | 
-| spirits shall | sorrow no | more, Not a sigh for the | blessing of | 
-| glorious | gift of His | love And the blessings that | hallow our |
+| E | E | B | B |
+| faith we can | see it | afar | For the | 
+| songs | of the | blessed; | And our |
+| offer our | tribute of | praise | For the | 
+
+
+| E |  A | E | B |
+| Father | waits | over the way  | To |  
+| spirits | shall | sorrow no | more, | 
+| glorious | gift of | His | love  | 
+
+
+| E | E | E | B |
+| prepare | us a | dwelling | place |
+| Not a | sigh for | the blessing | of |
+| And the | blessings that | hallow  | our |
 
 
 | C |  C | G | G7 | C |
